@@ -1,2 +1,4 @@
 C:\Users\joona.pohjonen\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
 C:\Users\joona.pohjonen\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.pdb
+C:\Users\joona\source\repos\cpp-teht-v-t-1\ConsoleApplication3\Debug\ConsoleApplication3.exe
+C:\Users\joona\source\repos\cpp-teht-v-t-1\ConsoleApplication3\Debug\ConsoleApplication3.pdb
